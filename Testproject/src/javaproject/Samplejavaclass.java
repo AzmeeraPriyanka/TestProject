@@ -1,5 +1,8 @@
 package javaproject;
 
 public class Samplejavaclass {
-i am sravani
+	public static void main(String[] args) {
+		System.out.println("i am sravani");
+	}
+
 }
